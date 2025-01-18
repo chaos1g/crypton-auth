@@ -1,6 +1,8 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite прилодожение-тест авторизации/регистрации
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Для запуска выполните следующие шаги:
+
+npm i
 
 Currently, two official plugins are available:
 
